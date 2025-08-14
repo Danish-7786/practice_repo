@@ -1,1 +1,0 @@
-console.lg("hello there I am Danish Pathan");
