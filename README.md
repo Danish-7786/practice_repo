@@ -1,2 +1,2 @@
-# My Git Practice 
+# My Practice 
 <Hello theree kaise ho>
